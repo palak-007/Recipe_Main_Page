@@ -139,7 +139,7 @@ table, tr, td{
     padding: 1rem;
 }
 
-.last-row{
+table, tr, .last-row{
     border-bottom: none;
 }
 
